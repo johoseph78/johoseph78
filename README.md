@@ -1,5 +1,18 @@
-## Hi there 👋
+## My name is Joseph
+## I have experience in...
 
+### Java
+### Python
+### Visual Basic
+
+## I'm currently a:
+### Sophomore at Jenks HS
+
+## Current Projects:
+### Chess project
+
+## Experience:
+### Very fresh at coding... always looking to learn more!
 <!--
 **johoseph78/johoseph78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
